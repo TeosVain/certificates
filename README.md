@@ -33,6 +33,6 @@
 
 ## 📬 Контакты
 
-- GitHub: [@ваш_ник](https://github.com/ваш_ник)
-- Email: example@example.com
-- Telegram: [@ваш_ник_в_TG](https://t.me/ваш_ник_в_TG)
+- GitHub: [@TeosVain](https://github.com/TeosVain)
+- Email: timofey.kononov@mail.ru
+- Telegram: [@TeosVain](https://t.me/TeosVain)
