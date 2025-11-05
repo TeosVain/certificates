@@ -1,8 +1,9 @@
 🌐 Язык: 
 <p align="center">
-  <a href="#-сертификаты-и-достижения">🇷🇺 RU</a> | <a href="#-Certificates-and-Achievements">🇬🇧 EN</a>
+  <a href="#-сертификаты-и-достижения">🇷🇺 RU</a> | <a href="#-certificates-and-achievements-(EN)">🇬🇧 EN</a>
 </p>
-# 📑 Сертификаты и достижения
+
+# Сертификаты и достижения
 
 Это репозиторий с моими PDF‑сертификатами и подтверждениями участия/достижений в IT‑соревнованиях, курсах и тренингах.
 
@@ -42,7 +43,7 @@
 
 ---
 
-## 📑 Certificates and Achievements (EN)
+# Certificates and Achievements (EN)
 
 This repository contains my PDF certificates and proofs of participation/achievements in programming competitions, courses, and trainings.
 
